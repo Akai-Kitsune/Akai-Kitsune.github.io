@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
 	<loc>https://kitsune.dev</loc>
-	<lastmod>2021-10-15</lastmod>
+	<lastmod>2021-12-31</lastmod>
 	<changefreq>Weekly</changefreq>
 	<priority>1.0</priority>
 	<image:image>
@@ -15,8 +15,22 @@
 	</image:image>
 </url>
 <url>
-	<loc>https://kitsune.dev/contact1.html</loc>
-	<lastmod>2021-10-15</lastmod>
+	<loc>https://kitsune.dev/road-map.html</loc>
+	<lastmod>2021-12-31</lastmod>
+	<changefreq>Weekly</changefreq>
+	<priority>0.5</priority>
+	<image:image>
+	<image:loc>https://kitsune.dev/img/</image:loc>
+	<image:title>Twitter Social Card Image</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://kitsune.dev/img/</image:loc>
+	<image:title>Facebook Social Card Image</image:title>
+	</image:image>
+</url>
+<url>
+	<loc>https://kitsune.dev/help.html</loc>
+	<lastmod>2021-12-31</lastmod>
 	<changefreq>Weekly</changefreq>
 	<priority>0.5</priority>
 	<image:image>
